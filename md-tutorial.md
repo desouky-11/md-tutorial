@@ -113,12 +113,13 @@
 ### 4.2 الصور
 
 ```markdown
-![مثال صورة](https://via.placeholder.com/150)
+![مثال صورة](https://picsum.photos/id/0/200/300)
 ```
 
 **نتيجة العرض:**
 
-![مثال صورة](https://via.placeholder.com/150)
+![![مثال صورة](https://picsum.photos/id/0/200/300)
+
 
 ---
 
